@@ -78,6 +78,7 @@ i{
   color: chocolate;
   font-size: 4rem;
   padding: 10px;
+  border-radius: 20px;
 }
 .location{
   display: flex;
@@ -185,6 +186,8 @@ footer {
       text-align: center;
       padding: 10px;
   font-size: 2rem;
+  border-radius: 30px;
+  margin-bottom: 50px;
 }
 #badge{
   background-color: transparent;
